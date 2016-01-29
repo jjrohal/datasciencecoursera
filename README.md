@@ -1,2 +1,4 @@
-# coursera
-Work from various Coursera courses
+# datasciencecoursera
+
+For completing the Data Scientist's Toolbox project.
+
